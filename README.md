@@ -1,69 +1,19 @@
-# 📊 Excel for Data Analytics - Full Course
+# My Excel Data Analytics Projects
 
-Data Nerds! This repo contains all the Excel files needed to follow along my free course: [Excel for Data Analytics](https://lukebarousse.com/excel)
+Hi! This Repo contains all the Excel files I used to build the two Excel Projects on Data Jobs around the world.
 
-[![Excel for Data Analytics](0_Resources/Images/Excel_Data_Analytics_v2.png)](https://youtu.be/pCJ15nGFgVg)
-## Team Members 👥
-**🙋🏼‍♂️ Course Leader:** [Luke Barousse](https://www.linkedin.com/in/luke-b)  
-**🎬 Course Producer:** [Kelly Adams](https://www.linkedin.com/in/kellyjianadams)  
-**📺 Video Editor:** [Brannon Linder](https://www.linkedin.com/in/brannonlinder)
+## Salary Dashboard
+[Check out my work here](Project_1-Dashboard)
 
-## Table of Contents
+This data job salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
 
-### [Course Problem Workbooks](/0_Resources/Problems/)
+<img width="800" height="333" alt="1_Salary_Dashboard_Final_Dashboard" src="https://github.com/user-attachments/assets/5e54772c-c3a6-4c8a-a651-2df47e298d7f" />
 
-- The Workbooks to solve practice problems
-    - [Purchase the problems here](https://lukebarousse.com/excel)
 
-### [Chapter 1: Spreadsheets_Intro](/1_Spreadsheets_Intro/)
-- Worksheets
-- Workbooks
-- Ribbon
-- Menu
-- Keyboard Shortcuts
-### [Chapter 2: Formulas & Functions](/2_Formulas_Functions/)
-- Formulas
-- Functions
-- Logical Functions
-- Text Functions
-- Date Functions
-- Lookup Functions
-- Math Functions
-- Statistical Functions
-### [Chapter 3: Charts](/3_Charts_Graphs/)
-- Chart Types
-- Chart Elements
-- Chart Styles
-- Chart Axes
-- Chart Layouts
-- Chart Templates
-### [Chapter 4: Spreadsheets Advanced](/4_Spreadsheets_Advanced/)
-- Tables
-- Conditional Formatting
-- Formatting
-- Collaboration
-### [Chapter 5: Pivot Tables](/5_Pivot_Tables/)
-- Pivot Tables
-- Pivot Charts
-- Pivot Tables Advanced
-### [Chapter 6: Advanced Data Analysis](/6_Advanced_Data_Analysis/)
-- Analysis Add-ins
-- Solver
-- Scenario Manager
-- Goal Seek
-- Data Tables
-### [Chapter 7: Power Query](/7_Power_Query/)
-- Power Query
-- Power Query Editor
-- Power Query M Language
-- Power Query Advanced
-### [Chapter 8: Power Pivot](/8_Power_Pivot/)
-- Power Pivot
-- Power Pivot DAX
-- Power Pivot Data Models
+## Salary Analysis
+[Check out my work here](Project_2-Dashboard)
 
-## Found a Typo? Want to Contribute?
-- If you find an error in this repo, please feel free to make a pull request by:
-    - Forking the repo
-    - Making any changes
-    - Submitting a pull request
+As a current job seeker with an interest in data science, I created this analysis to explore the optimal jobs and skills in the industry. I set out to understand which skills were most desired and resulted in the most pay.
+
+<img width="874" height="537" alt="2_Project_Analysis_Chart1" src="https://github.com/user-attachments/assets/dde79175-7e2f-4d58-9cca-4aa113fe6706" />  
+<img width="759" height="513" alt="2_Project_Analysis_Chart3" src="https://github.com/user-attachments/assets/783506a3-e5a7-4489-af0f-7c3616b1a3ab" />
