@@ -4,6 +4,9 @@
 ## Project Analysis
 Why do some data roles pay significantly more than others? I analyzed a dataset of 2023 data science job postings to identify the correlation between skill density, geographic location, and compensation. This project moves beyond standard spreadsheets into Data Modeling and Advanced Analytics.
 
+The final project can be accessed in [Data_Jobs_Analysisr.xlsx](Data_Jobs_Analysis.xlsx)
+
+
 ## Advanced Technical Stack
 - Power Query (M): Automated the ETL (Extract, Transform, Load) process to clean and merge relational datasets.
 - Power Pivot & Data Modeling: Created a star-schema relationship between job postings and skill requirements.
