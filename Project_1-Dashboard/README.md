@@ -11,9 +11,16 @@ The final project can be accessed in Data_Jobs_Salary_Calculator.xlsx
 ## Key Features
 **Dynamic Geographic Mapping**: Visualizes median salary distribution globally to identify high-paying regions at a glance.  
 
-<img width="499" height="288" alt="Screenshot 2026-04-21 154844" src="https://github.com/user-attachments/assets/0d0195af-e0b2-4f7c-81cb-058c6501b81a" />
+<img width="499" height="288" alt="Screenshot 2026-04-21 154844" src="https://github.com/user-attachments/assets/0d0195af-e0b2-4f7c-81cb-058c6501b81a" />  
+
+<br>
 
 **Salary Benchmarking**: A horizontal bar chart comparing median salaries across different roles (e.g., Data Scientist vs. Data Analyst).  
+
+<img width="436" height="286" alt="Screenshot 2026-04-21 155213" src="https://github.com/user-attachments/assets/42f18690-d271-4be7-8e08-db5cc545c878" />
+
+<br>
+
 **Multi-Factor Filtering**: User-controlled dropdowns for "Country" and "Job Type" that instantly update all dashboard metrics.
 
 ## Technical Highlights
