@@ -1,6 +1,7 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+<img width="1578" height="724" alt="excel_animation" src="https://github.com/user-attachments/assets/a542de9d-44a5-4864-83e6-8f73ebeae52e" />
+
 
 ## Project Overview
 I developed an interactive Excel dashboard to help job seekers navigate the 2023 data job market. This tool enables users to filter global salary data by job title, country, and employment type, providing data-driven clarity for salary negotiations and career planning.
