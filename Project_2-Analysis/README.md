@@ -1,9 +1,6 @@
 
 # Project 2 Analysis
 
-<img width="1395" height="545" alt="image" src="https://github.com/user-attachments/assets/b5468a6e-72cd-4c94-9844-41ea2f3aaa52" />
-
-
 ## Project Analysis
 Why do some data roles pay significantly more than others? I analyzed a dataset of 2023 data science job postings to identify the correlation between skill density, geographic location, and compensation. This project moves beyond standard spreadsheets into Data Modeling and Advanced Analytics.
 
@@ -43,17 +40,24 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 ```
 
 ## Key Strategic Insights
-- **The "Skill Premium"**: There is a direct positive correlation between the number of specialized skills (e.g., Python + AWS) and salary. Generalist roles (Business Analyst) show a lower salary ceiling than specialized roles (Senior Data Engineer).
+### 1. The Skill Premium & Role Specialization
+This scatter plot identifies the correlation between technical complexity and financial return across major data roles.
 
+- **The Linear Trend:** The market sets a clear "floor" at $85k (3.3 skills) for generalist roles like Business Analysts, scaling linearly to $147k (8.1 skills) for Senior Data Engineers as technical requirements increase.
+- **The Senior Divergence:** Senior Data Engineers require ~85% more skills than Senior Data Analysts, but command a $36k premium, highlighting the massive market value placed on infrastructure and technical complexity.
+- **The Efficiency Outlier:** Senior Data Scientists represent the highest "ROI" on skills. They command the top median salary ($155k) despite requiring fewer total skills (5.3) than engineers, proving that skill type (AI/Modeling) often outweighs skill quantity.
 <img width="1426" height="476" alt="image" src="https://github.com/user-attachments/assets/b98dd5bb-e834-4321-85d1-8fd2bbbe9794" />  
 <br>
 
-- **The Linear Trend:** As indicated by the dotted trendline, the "floor" for data roles starts at approximately $85k (3.3 skills) for Business Analysts and scales to $147k (8.1 skills) for Senior Data Engineers.
-- **The Senior Divergence:** Notice the gap between Senior Data Analysts and Senior Data Engineers. The Engineer role requires ~85% more skills (8.1 vs 4.4) but commands a ~$36k premium, highlighting the market value of technical complexity.
-- **Efficiency Outlier:** Senior Data Scientists represent the most efficient "ROI" on skills. They command the highest median salary ($155k) despite requiring fewer total skills (5.3) than Data Engineers, suggesting that the type of skill (Advanced Modeling/AI) outweighs the quantity of skills.
+### 2. Market Demand vs. Salary Drivers
+By comparing skill frequency against median pay, we can distinguish between "entry-stakes" skills and true "salary drivers."
 
-- **Global Disparity**: Tech roles in the US command a 40-50% premium over international equivalents, particularly in high-demand cloud competencies.  
-- **High-Value Skills**: While SQL and Python are the most frequent skills, specialized tools like Oracle and Cloud Architecture (AWS/Azure) are linked to the highest median salary brackets.
+<img width="1395" height="545" alt="image" src="https://github.com/user-attachments/assets/b5468a6e-72cd-4c94-9844-41ea2f3aaa52" /> 
+<br>
+
+- **Volume vs. Value:** While SQL and Python are the most frequent requirements (>50% likelihood), they sit in the middle of the salary bracket. They are essential for entry, but not enough to reach the highest pay tiers.
+- **High-Value Specialization:** Specialized tools like Spark and AWS appear in only ~20% of postings but are linked to the highest median salary brackets ($135k-$140k).
+- **Global Disparity:** Utilizing the dashboard's geographic slicers reveals a 40-50% US Premium over international equivalents. This gap is most aggressive in Cloud Architecture (AWS/Azure), where US-based roles see a significantly higher ceiling for the same skill density.
 
 
 
