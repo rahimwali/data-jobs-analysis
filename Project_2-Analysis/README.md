@@ -53,13 +53,11 @@ This scatter plot identifies the correlation between technical complexity and fi
 
 ### 2. Market Demand vs. Salary Drivers
 By comparing skill frequency against median pay, we can distinguish between "entry-stakes" skills and true "salary drivers."
-
-<img width="1395" height="545" alt="image" src="https://github.com/user-attachments/assets/b5468a6e-72cd-4c94-9844-41ea2f3aaa52" /> 
-<br>
-
 - **Volume vs. Value:** While SQL and Python are the most frequent requirements (>50% likelihood), they sit in the middle of the salary bracket. They are essential for entry, but not enough to reach the highest pay tiers.
 - **High-Value Specialization:** Specialized tools like Spark and AWS appear in only ~20% of postings but are linked to the highest median salary brackets ($135k-$140k).
 - **Global Disparity:** Utilizing the dashboard's geographic slicers reveals a 40-50% US Premium over international equivalents. This gap is most aggressive in Cloud Architecture (AWS/Azure), where US-based roles see a significantly higher ceiling for the same skill density.
+<img width="1395" height="545" alt="image" src="https://github.com/user-attachments/assets/b5468a6e-72cd-4c94-9844-41ea2f3aaa52" /> 
+<br>  
 
 
 
