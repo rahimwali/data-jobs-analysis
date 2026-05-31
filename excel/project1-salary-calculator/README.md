@@ -6,7 +6,7 @@
 ## Project Overview
 I developed an interactive Excel dashboard to help job seekers navigate the 2023 data job market. This tool enables users to filter global salary data by job title, country, and employment type, providing data-driven clarity for salary negotiations and career planning.
 
-The final project can be accessed in [Data_Jobs_Salary_Calculator.xlsx](data-jobs-salary-calculator.xlsx)
+The final project can be accessed in [data-jobs-salary-calculator.xlsx](data-jobs-salary-calculator.xlsx)
 
 ## Key Features
 **Dynamic Geographic Mapping**: Visualizes median salary distribution globally to identify high-paying regions at a glance.  
