@@ -1,15 +1,26 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+<img width="1578" height="724" alt="excel_animation" src="https://github.com/user-attachments/assets/a542de9d-44a5-4864-83e6-8f73ebeae52e" />
+
 
 ## Project Overview
 I developed an interactive Excel dashboard to help job seekers navigate the 2023 data job market. This tool enables users to filter global salary data by job title, country, and employment type, providing data-driven clarity for salary negotiations and career planning.
 
-The final project can be accessed in Data_Jobs_Salary_Calculator.xlsx
+The final project can be accessed in [Data_Jobs_Salary_Calculator.xlsx](Data_Jobs_Salary_Calculator.xlsx)
 
 ## Key Features
 **Dynamic Geographic Mapping**: Visualizes median salary distribution globally to identify high-paying regions at a glance.  
+
+<img width="499" height="288" alt="Screenshot 2026-04-21 154844" src="https://github.com/user-attachments/assets/0d0195af-e0b2-4f7c-81cb-058c6501b81a" />  
+
+<br>
+
 **Salary Benchmarking**: A horizontal bar chart comparing median salaries across different roles (e.g., Data Scientist vs. Data Analyst).  
+
+<img width="436" height="286" alt="Screenshot 2026-04-21 155213" src="https://github.com/user-attachments/assets/42f18690-d271-4be7-8e08-db5cc545c878" />
+
+<br>
+
 **Multi-Factor Filtering**: User-controlled dropdowns for "Country" and "Job Type" that instantly update all dashboard metrics.
 
 ## Technical Highlights
