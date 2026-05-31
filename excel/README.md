@@ -3,7 +3,7 @@
 Hi! This Repo contains all the Excel files I used to build the two Excel Projects on Data Jobs around the world.
 
 ## Salary Dashboard
-[Check out my work here](excel/project1-salary-calculator)
+[Check out my work here](/project1-salary-calculator)
 
 This data job salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
 
