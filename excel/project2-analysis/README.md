@@ -6,7 +6,7 @@
 ## Project Analysis
 Why do some data roles pay significantly more than others? I analyzed a dataset of 2023 data science job postings to identify the correlation between skill density, geographic location, and compensation. This project moves beyond standard spreadsheets into Data Modeling and Advanced Analytics.
 
-The final project can be accessed in [Data_Jobs_Analysis.xlsx](Data_Jobs_Analysis.xlsx)
+The final project can be accessed in [data-jobs-analysis.xlsx](data-jobs-analysis.xlsx)
 
 
 ## Advanced Technical Stack
