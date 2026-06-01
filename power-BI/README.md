@@ -1,6 +1,6 @@
 # Data Jobs Dashboard
 
-<img width="1366" height="768" alt="Dashboard Preview" src="dashboard-preview.png" />
+<img width="1366" height="768" alt="Dashboard Preview" src="./assets/dashboard.png" />
 
 ## Project Overview
 
@@ -43,7 +43,7 @@ Before building the dashboard, I cleaned and transformed the dataset using Power
 
 To support flexible filtering and reporting, I built a star schema data model inside Power BI. This allowed the dashboard to efficiently connect job postings, skills, salary information, and locations.
 
-<img width="900" alt="Data Model" src="data-model.png" />
+<img width="900" alt="Data Model" src="./assets/data-model.png" />
 
 ## DAX Measures
 
