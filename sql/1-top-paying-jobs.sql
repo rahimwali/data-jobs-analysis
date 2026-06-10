@@ -1,9 +1,10 @@
 /*
-Question: What are the top paying Data Analyst jobs?
+Question: What are the top paying general anaylst jobs?
 
-  - Identify the top 10 highest paying Data Analyst roles that are available locally
+  - Identify the top paying analyst roles that are available locally
   - Focuses on job postings with specified salaries (ignore null values)
-  - Why? Highlight the top paying opportunities for Data Analysts in my area
+      and jobs that are entry/junior level
+  - Why? Highlight the top paying opportunities for analyst roles in my area
 
 Findings:
 
@@ -23,10 +24,9 @@ FROM
 LEFT JOIN
   company_dim ON job_postings_fact.company_id = company_dim.company_id
 WHERE
-  job_title_short = 'Data Analyst' AND
+  job_title LIKE '%Analyst%' AND
+  job_title !~* '(Senior|Principal|3|4|Lead|Chief)' AND
   job_location = 'Albany, NY' AND
   salary_year_avg IS NOT NULL
 ORDER BY
   salary_year_avg DESC
-LIMIT 10
-
